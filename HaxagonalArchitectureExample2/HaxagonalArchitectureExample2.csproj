@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\HaxagonalArchitectureExample2\HaxagonalArchitectureExample2.csproj" />
-  </ItemGroup>
-
 </Project>
